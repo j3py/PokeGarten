@@ -1,0 +1,17 @@
+.pokemon {
+	height: auto;
+	width: auto;
+}
+
+.bigPoke {
+	height: 400px;
+	width: auto;
+}
+
+button {
+	height: 50px;
+	width: 200px;
+	color: black;
+	background-color: yellowgreen;
+	border-radius: 20px;
+}
